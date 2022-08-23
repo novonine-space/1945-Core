@@ -6,3 +6,14 @@ out/
 !/broadcast
 /broadcast/*
 /broadcast/*/31337/
+
+# Others
+node_modules
+.env
+coverage
+coverage.json
+typechain
+
+#Hardhat files
+cache
+artifacts
