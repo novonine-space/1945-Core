@@ -2,6 +2,13 @@
 # yarn lockfile v1
 
 
+"@1945-factory/packages@^0.0.1":
+  version "0.0.1"
+  resolved "https://registry.yarnpkg.com/@1945-factory/packages/-/packages-0.0.1.tgz#c47f12018e383dcda119bac31e49a8aa184d72ee"
+  integrity sha512-XtuUfBdJwGK62a9fqbI8JY0sR8CLnNFAQmVxXqCxEeJb1MNYU43+WUqcI/D13om126zl/RyuaPCsMx4juxAHww==
+  dependencies:
+    "@openzeppelin/contracts" "^4.6.0"
+
 "@babel/code-frame@7.12.11":
   version "7.12.11"
   resolved "https://registry.yarnpkg.com/@babel/code-frame/-/code-frame-7.12.11.tgz#f4ad435aa263db935b8f10f2c552d23fb716a63f"
