@@ -1,5 +1,5 @@
 {
-  "name": "@1945/core",
+  "name": "@1945-factory/core",
   "devDependencies": {
     "@nomiclabs/hardhat-ethers": "npm:hardhat-deploy-ethers",
     "@nomiclabs/hardhat-etherscan": "^2.1.6",
